@@ -1,1 +1,1 @@
-This is the description of my rep
+This is the description of my repo
